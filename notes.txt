@@ -1,1 +1,2 @@
 My first Git commit.
+This change was made in feature-notes branch.
